@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background-image: linear-gradient( to bottom right, gray, pink, white);
+}
+
+.pictures {
+   display: flex;
+   align-items: center;
+   justify-content: space-evenly; 
+   text-align: center;
+   padding: 9px;
+}
+
+img {
+    width: 400px;
+    border-radius: 3px;
+    border: 8px solid blanchedalmond;
+    border-color: rgb(30, 2, 56);
+}
+
+.olla {
+    height: 500px;
+     display: flex; 
+    align-items: center; 
+    justify-content: center; */
+    margin-left: 290px;
+    background-color: rgb(163, 133, 192);
+    text-align: center;
+}
+
+h3, h4, h5, p {
+    margin-left: 15px;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(37, 33, 33);
+    color: antiquewhite;
+    display: grid;
+    text-align: center;
+    align-items: center;
+    height: 60px;
+}

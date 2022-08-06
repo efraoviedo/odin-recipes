@@ -1,0 +1,62 @@
+body {
+    /* margin: 0; */
+    /* background-image: url(file:///home/efranor/repos/odin-recipes/snowfall-201496_960_720.webp); */
+    background-color: rgb(221, 205, 205);
+    opacity: 0.8;
+
+}
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+    /* background-image: linear-gradient( to bottom right, gray, pink, white); */
+}
+
+.pictures {
+   /* display: flex; */
+   align-items: center;
+   justify-content: space-evenly; 
+   text-align: center;
+   padding: 9px;
+}
+
+img {
+    width: 600px;
+    border-radius: 3px;
+    border: 4px solid blanchedalmond;
+    border-color: rgb(30, 2, 56);
+}
+
+.olla {
+    height: 500px;
+     display: flex; 
+    align-items: center; 
+    justify-content: center; */ 
+    margin-left: 290px;
+    background-color:  rgb(67, 68, 136);
+    text-align: center;
+}
+
+ul {
+    text-decoration-color: rgb(180, 120, 236);
+    /* opacity: 0.8; */
+    padding: 2px;
+}
+
+h3, h4, h5, p {
+    margin-left: 15px;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(17, 16, 16);
+    color: antiquewhite;
+    display: grid;
+    text-align: center;
+    align-items: center;
+    height: 60px;
+}
